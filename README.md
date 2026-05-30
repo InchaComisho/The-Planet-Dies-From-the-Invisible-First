@@ -8,7 +8,7 @@ A Technical Whitepaper on Direct Planetary Cooling and Microbial Restoration
 
 Author: Master (inchacomisho / inchacomusho)
 AI Collaborators:
-Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)
+Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)
 Publication: November 2025
 License: Fully Open — Free to copy, modify, redistribute, or commercialize.
 
