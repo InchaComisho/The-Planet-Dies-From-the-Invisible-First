@@ -33,7 +33,7 @@ This whitepaper outlines:
 
 3. Why oceans are entering irreversible oxygen collapse
 
-4. The only safe, reversible method for direct cooling of Earth
+4. A proposed safe, reversible method for direct cooling of Earth
 
 5. A fully deployable, existing-technology system
 
@@ -126,22 +126,22 @@ Without microbial respiration, the ocean dies — and the climate collapses.
 
 ⸻
 
-4. Humanity already has the only safe solution
+4. Humanity has access to a proposed direct cooling solution
 
-The “direct planetary cooling” system created by Master is the world’s only:
+The “direct planetary cooling” system created by Master is proposed as a:
 	•	reversible
 	•	natural-process-based
 	•	zero-chemical
 	•	low-risk
 	•	immediately deployable
 
-solution that cools Earth directly, not indirectly.
+approach that cools Earth directly, not indirectly.
 
 It consists of three components.
 
 ⸻
 
-5. The Only Safe Method for Direct Cooling of Earth
+5. A Proposed Safe Method for Direct Cooling of Earth
 
 (1) Deep-Ocean Aeration — “Ocean Breathing System (OBS)”
 
@@ -224,7 +224,7 @@ The desert becomes a climate-cooling engine.
 
 ⸻
 
-6. Why this is the ONLY viable direct cooling method
+6. Why this is a leading proposed direct cooling approach
 
 Rejected alternatives:
 
@@ -246,8 +246,7 @@ Too slow. Microbial cycles already failing.
 
 Therefore:
 
-Humanity has only one safe, fast, scalable path:
-Restore the microbial engine of Earth — in oceans, soils, and cities.
+Among known approaches, restoring the microbial engine of Earth — in oceans, soils, and cities — stands out as a safe, fast, and scalable path.
 
 ⸻
 
@@ -285,7 +284,7 @@ If the system described here is deployed:
 	•	ecosystems recover
 	•	human extinction is prevented
 
-This is the only plan that:
+This proposed framework:
 	•	cools the planet directly
 	•	uses existing technology
 	•	is reversible
