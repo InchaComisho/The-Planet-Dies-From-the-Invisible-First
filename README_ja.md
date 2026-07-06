@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Planet Dies From the Invisible First
 
 **微生物崩壊 → 砂漠化 → 海洋死滅 → 人類絶滅リスク**  

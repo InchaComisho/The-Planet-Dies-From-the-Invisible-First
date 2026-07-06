@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Microbial Collapse → Desertification → Ocean Death → Human Extinction Risk
 
 **A Technical Whitepaper on Direct Planetary Cooling and Microbial Restoration**
