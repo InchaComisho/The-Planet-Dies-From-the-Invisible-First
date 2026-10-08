@@ -455,7 +455,6 @@ If it can be restored, regeneration may still be possible.
 ### NOTE Article
 
 - The Planet Dies From the Invisible First  
-  https://note.com/inchacomusho/n/na6185950bfb1
 
 ### Direct Planetary Cooling and Microbial Collapse
 

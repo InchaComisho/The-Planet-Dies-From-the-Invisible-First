@@ -456,7 +456,6 @@ CO₂だけでもない。
 ### NOTE記事
 
 - The Planet Dies From the Invisible First / 地球は見えないものから先に死ぬ  
-  https://note.com/inchacomusho/n/na6185950bfb1
 
 ### 地球直接冷却・微生物崩壊
 
